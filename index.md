@@ -46,4 +46,3 @@
 -Gmail: Maryam.reykaa@gmail.com
    - رزومه ی انگلیسی: <a href="https://maryamreyka.github.io/resume.EN/"> Resume </a>
 </ul>
-
