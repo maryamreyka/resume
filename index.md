@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/87013186?s=400&u=c5e5b2292d53c4a4481316b4ca62e8cf875b7813&v=4"/>
+<h1> درباره ی من</h1>
+  <p> من مریم ری کا انشجوی ڪارشناسی رشته ی مهندسی کامپیوتر دانشگاه پیام نور شهریار  هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:مریم</li>
+  <li>نام خانوادگے: ری کا</li>
+  <li>تاریخ تولد: 1375/10/10</li>
+  <li>وضعیت تاهل: مجرد</li>
 
-You can use the [editor on GitHub](https://github.com/maryamreyka/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+<h1>مهارت ها</h1>
 
-### Markdown
+<ul>
+       <li>C</li>
+    <li>HIML</li>
+    <li>C++</li>
+    <li>ICDL 1</li>
+   </ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1>علایق </h1>
+<ul>
+ <li> مسافرت</li>
+ <li> ورزش  </li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>من دوسال در مرکز مشاوره کار کردم</li>
+</ul>
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maryamreyka/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
+-Gmail: Maryam.reykaa@gmail.com
+  </ul>
